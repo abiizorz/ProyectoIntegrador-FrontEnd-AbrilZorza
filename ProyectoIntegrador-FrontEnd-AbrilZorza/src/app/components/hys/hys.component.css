@@ -1,4 +1,10 @@
 .row{
     background-color: #B3DFFF;
-    padding: 20px;
+    padding: 15px;
+}
+
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
